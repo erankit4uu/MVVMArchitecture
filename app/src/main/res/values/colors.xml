@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#05c554</color>
+    <color name="colorPrimary">#05c554</color>
+    <color name="text_geen">#0D803C</color>
+    <color name="radio_text">#929496</color>
+    <!--<color name="colorPrimaryDark">#597A67</color>-->
+    <!--<color name="colorPrimary">#597A67</color>-->
+    <color name="box_color">#ACC2B4</color>
+    <color name="box_color_light">#DFF1E6</color>
+    <color name="purple">#6959CD</color>
+    <!--<color name="colorPrimaryDark">#97475F</color>-->
+    <!--<color name="colorPrimary">#97475F</color>-->
+    <color name="grey_text_color">#EDEEF0</color>
+    <!--<color name="box_color_light">#F0DDE1</color>-->
+    <color name="colorPrimaryLight">#2F5A09</color>
+    <color name="colorAccent">#344208</color>
+    <color name="grey_dark_text">#6B6B6B</color>
+    <color name="red_text">#E63C3E</color>
+    <color name="gradientColorPrimary">#9013334C</color>
+    <color name="black">#000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="bottom_sheet_background">#ffffff</color>
+    <color name="card_background">#a3e9a4</color>
+    <color name="card_upper_background">#0a8f08</color>
+
+    <color name="toolbar_background_color">#FAFAFA</color>
+
+    <color name="divider">#acacac</color>
+    <color name="divider_light">@color/md_grey_300</color>
+
+    <color name="theme_text_color">#6d6d6d</color>
+    <color name="record_activity">#26444B</color>
+    <color name="theme_color_error_text">@color/md_red_800</color>
+    <color name="theme_color_cards">#F7EFE4</color>
+    <color name="theme_text_heading">#424243</color>
+    <color name="foreground_material_light">#cfa6a6</color>
+    <color name="primary_material_light">#4caf50</color>
+    <color name="primary_dark_material_light">#28782c</color>
+    <color name="gradient_black">#85000000</color>
+
+    <color name="error_text">#c41411</color>
+
+    <color name="download_color_failure">@color/divider</color>
+    <color name="download_color_success">@color/md_green_800</color>
+    <color name="metro_red">#D32121</color>
+    <color name="metro_grey">#B0B1B4</color>
+
+    <color name="web_link">@color/md_blue_500</color>
+    <color name="grey_light_text_boxes">#CDCDD5</color>
+    <color name="grey_light_theme">#E8E9EC</color>
+
+</resources>
